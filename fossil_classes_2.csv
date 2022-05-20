@@ -1,0 +1,25 @@
+Creature Name,"Skull, length",Antorbital fenestra,"Orbit, anteroposterior length","Orbit, shape","External naris, length of longest dimension","External nares, elements separating opposing nares on dorsal midline","Lateral temporal fenestra, size","Lateral temporal fenestra, shape","Supratemporal fenestra, orientation","Supratemporal fenestra, extent of surrounding fossa","Skull, slit-like fenestra between premaxilla and maxilla (greatest dimension greater than three times lesser dimension)","Premaxilla, inclination of anterior border","Premaxilla, length of ventral margin compared to ventral margin of maxilla","Premaxilla, ventral ascending process articulating with maxilla, form","Premaxilla, ventral ascending process articulating with maxilla, extent","Premaxilla, dorsal ascending process articulating with nasal to form internarial bar, length","Premaxilla, dentition","Premaxilla, articulation with maxilla, form of ventral border","Maxilla, anterior ramus extending anterior to ascending ramus","Maxilla, anteroposterior length of base of ascending ramus","Maxilla, form of antorbital fossa on lateral surface","Maxilla, length of portion of bone anterior to anterior margin of antorbital fenestra","Maxilla, articulation with opposing maxilla on palate to form secondary bony palate","Maxilla, dentition","Nasal, position of anterior portion in lateral view","Nasal, rugose lateral ridge","Nasal, midline depression in dorsal view","Lacrimal, exposure on the skull roof","Skull roof (nasal and frontals), sculpturing","Prefrontal, contact with nasal, extent","Prefrontal, descending process forming anterodorsal rim of orbit, size","Prefrontal, posterior process underlying frontal dorsal to orbit","Frontal, contribution to dorsal orbital rim","Frontal, sagittal crest along midline in dorsal view","Frontal, dorsal surface, participation in supratemporal fossa",Postfrontal,"Parietals, midline suture between opposing elements","Parietals, posteroventral edge, width",". Parietals, shape of posterior margin in dorsal view","Parietal, sagittal crest along midline in dorsal view",Class Name
+Erythrosuchus,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Euparkeria,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+PROTEROCHAMPSIDAE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Scleromochlus,1,0,1,0,1,2,8,0,1,0,0,0,0,0,8,0,0,0,0,0,1,1,0,0,0,0,0,0,1,8,8,0,0,0,0,0,8,0,8,8,0
+Eudimorphodon,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,8,0,0,0,0,0,8,0,8,0,0,0,0,8,0,8,8,8,8,8,1
+Eoraptor,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,8,0,0,0,8,1,0,0,0,0,0,0,1,2,8,2
+Herrerasaurus,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,0,0,0,3
+Plateosaurus,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,2,2,1,0,0,2
+Heterodontosaurus,0,0,1,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,8,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,8,8,1,4
+Paleorhinus,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+Rutiodon,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+Mystriosuchus,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Pseudopalatus,1,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Stagonolepis,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,6
+Desmatosuchus,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,8,0,8,0,0,0,0,0,1,1,0,6
+Ornithosuchus,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,8,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,6
+Riojasuchus,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,6
+Erpetosuchus,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,8,0,0,0,2,2,1,1,1,6
+Qianosuchus,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,8,8,0,8,0,0,0,0,8,0,0,8,8,8,8,6
+Effigia,0,0,1,0,0,1,0,1,0,0,0,1,2,2,0,1,1,0,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,2,0,1,1,0,6
+Lotosaurus,0,0,0,1,1,1,0,0,1,0,0,1,2,1,0,1,1,0,0,0,1,1,8,1,0,0,0,0,1,0,0,0,0,1,0,8,0,1,0,1,6
+Postosuchus,0,0,0,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,8,0,1,0,0,0,0,0,0,1,6
+Saurosuchus,0,1,0,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,6
+Teratosaurus,8,0,0,1,0,2,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,8,1,1,0,1,8,8,8,8,8,8,8,6
